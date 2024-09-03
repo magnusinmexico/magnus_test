@@ -27,9 +27,13 @@ Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (v14+)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
-### Steps
+## Features Comparison
 
-Clone the repository:
+| Feature           | Basic Plan | Pro Plan | Enterprise Plan |
+|-------------------|------------|----------|-----------------|
+| **Storage**       | 10 GB      | 100 GB   | Unlimited       |
+| **Support**       | Email      | 24/7     | Dedicated       |
+| **Custom Domains**| No         | Yes      | Yes             |
+| **Analytics**     | Basic      | Advanced | Advanced        |
+| **Price**         | $10/month  | $30/month| Custom Pricing  |
 
-```bash
-git clone https://github.com/username/repository.git
