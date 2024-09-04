@@ -45,24 +45,32 @@ Make sure you have the following installed:
 - :lock: Secure
 - :zap: Real-time updates
 
+# Features
+
+Here are three features presented as cards:
+
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
   <!-- Card 1 -->
-  <div style="background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 30%; padding: 20px; text-align: center;">
-    <h3 style="color: #343a40;">Card 1</h3>
-    <p style="color: #6c757d;">This is a description for Card 1. You can include any content you like here.</p>
-  </div>
+  <svg width="200" height="150" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="150" rx="15" ry="15" style="fill:#f8f9fa;stroke:#343a40;stroke-width:2;box-shadow:0 4px 8px rgba(0,0,0,0.1)"/>
+    <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle" style="fill:#343a40; font-size: 18px; font-weight: bold;">Card 1</text>
+    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" style="fill:#6c757d; font-size: 14px;">Description for Card 1</text>
+  </svg>
 
   <!-- Card 2 -->
-  <div style="background-color: #fff3cd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 30%; padding: 20px; text-align: center;">
-    <h3 style="color: #856404;">Card 2</h3>
-    <p style="color: #856404;">This is a description for Card 2. You can include any content you like here.</p>
-  </div>
+  <svg width="200" height="150" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="150" rx="15" ry="15" style="fill:#fff3cd;stroke:#856404;stroke-width:2;box-shadow:0 4px 8px rgba(0,0,0,0.1)"/>
+    <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle" style="fill:#856404; font-size: 18px; font-weight: bold;">Card 2</text>
+    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" style="fill:#856404; font-size: 14px;">Description for Card 2</text>
+  </svg>
 
   <!-- Card 3 -->
-  <div style="background-color: #d4edda; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 30%; padding: 20px; text-align: center;">
-    <h3 style="color: #155724;">Card 3</h3>
-    <p style="color: #155724;">This is a description for Card 3. You can include any content you like here.</p>
-  </div>
+  <svg width="200" height="150" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="150" rx="15" ry="15" style="fill:#d4edda;stroke:#155724;stroke-width:2;box-shadow:0 4px 8px rgba(0,0,0,0.1)"/>
+    <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle" style="fill:#155724; font-size: 18px; font-weight: bold;">Card 3</text>
+    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" style="fill:#155724; font-size: 14px;">Description for Card 3</text>
+  </svg>
 </div>
+
 
 
