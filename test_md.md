@@ -2,6 +2,7 @@
 
 ![License](https://img.shields.io/github/license/username/repository)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/username/repository/ci.yml)
+![Whatever](https://img.shields.io/github/license/username/repository)
 
 ## Description
 
@@ -46,8 +47,6 @@ Make sure you have the following installed:
 - :zap: Real-time updates
 
 # Features
-
-Here are three features presented as cards:
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
