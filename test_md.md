@@ -2,7 +2,6 @@
 
 ![License](https://img.shields.io/github/license/username/repository)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/username/repository/ci.yml)
-![Whatever](https://img.shields.io/github/license/username/repository)
 
 ## Description
 
