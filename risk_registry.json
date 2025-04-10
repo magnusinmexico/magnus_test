@@ -1,0 +1,20 @@
+[
+  {
+    "id": "R1",
+    "description": "Data loss due to failed backup",
+    "likelihood": "High",
+    "impact": "High",
+    "level": "Critical",
+    "status": "Open",
+    "owner": "Alice"
+  },
+  {
+    "id": "R2",
+    "description": "Key developer may leave",
+    "likelihood": "Medium",
+    "impact": "High",
+    "level": "Major",
+    "status": "Monitoring",
+    "owner": "Bob"
+  }
+]
